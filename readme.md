@@ -1,3 +1,14 @@
-## Laravel Project Starter
+# Micro Club Web Project 
+## Description 
+This is micro club web application
 
-This is a simple laravel project starter which help to evoide creation of new project and setup dependencies every time with admine panel (AdminLTE) 
+## Setup environement
+ - go to the project directory 
+ - open a terminal/cmd in the directory
+ - update with composer by : `composer update --no-scripts`
+ - copy .env.example into .env file
+ - generate a key by : `php artisan key:generate`
+ - run the project : `php artisan serve`
+ 
+Enjoy :) 
+ 
